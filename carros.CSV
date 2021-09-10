@@ -1,4 +1,4 @@
-carro;valor
-onix;30000
-pegout306;25000
-fox;22000
+carro,valor,ano
+onix,30000,2015
+pegout306,25000,2001
+fox,22000,2010
